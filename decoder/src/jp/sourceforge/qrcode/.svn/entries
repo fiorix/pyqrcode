@@ -1,0 +1,64 @@
+8
+
+dir
+8
+https://pyqrcode.mine.nu/svn/branches/pyqrcode-0.2.1/decoder/src/jp/sourceforge/qrcode
+https://pyqrcode.mine.nu/svn
+
+
+
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+
+svn:special svn:externals svn:needs-lock
+
+reader
+dir
+
+QRCodeDecoder.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+b81941ac879d704e9c4818fbfd256793
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+geom
+dir
+
+data
+dir
+
+ecc
+dir
+
+example
+dir
+
+pattern
+dir
+
+QRCodeEncoder.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+15c027c4da209d8d1d4365a43650af6d
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+util
+dir
+
+exception
+dir
+

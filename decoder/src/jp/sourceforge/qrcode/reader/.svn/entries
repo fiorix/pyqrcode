@@ -1,0 +1,40 @@
+8
+
+dir
+8
+https://pyqrcode.mine.nu/svn/branches/pyqrcode-0.2.1/decoder/src/jp/sourceforge/qrcode/reader
+https://pyqrcode.mine.nu/svn
+
+
+
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+
+svn:special svn:externals svn:needs-lock
+
+QRCodeImageReader.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+90a61193c14ca3117967a6533a04b154
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+QRCodeDataBlockReader.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+d3a0e424b3cc3fe42241199fc637fc2b
+2008-11-13T03:27:38.992858Z
+8
+alef
+

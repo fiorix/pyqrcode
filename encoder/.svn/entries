@@ -1,0 +1,73 @@
+8
+
+dir
+8
+https://pyqrcode.mine.nu/svn/branches/pyqrcode-0.2.1/encoder
+https://pyqrcode.mine.nu/svn
+
+
+
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+
+svn:special svn:externals svn:needs-lock
+
+.classpath
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+71f2b1354cfe92af330afa8bad1b8d74
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+Encoder.c
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+3e100db878498d6a4131f1fb8a107edc
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+.project
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+cf960b7b8cb8b66638a6ba9f5b2bacad
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+setup.py
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+3711a5bfbe099ddd388878d2419f949f
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+src
+dir
+
+qrcode
+dir
+
+.settings
+dir
+

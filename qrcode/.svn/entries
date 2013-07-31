@@ -1,0 +1,53 @@
+8
+
+dir
+8
+https://pyqrcode.mine.nu/svn/branches/pyqrcode-0.2.1/qrcode
+https://pyqrcode.mine.nu/svn
+
+
+
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+15225a54-7047-4ae2-be0a-c507cc12ea38
+
+__init__.py
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+d8282409e63a33e6dcfb85c30602fc53
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+__init__.pyc
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+09f7b9f8608c29f764282c22c6381b13
+2008-11-13T03:27:38.992858Z
+8
+alef
+has-props
+

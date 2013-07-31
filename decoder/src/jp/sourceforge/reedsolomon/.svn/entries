@@ -1,0 +1,68 @@
+8
+
+dir
+8
+https://pyqrcode.mine.nu/svn/branches/pyqrcode-0.2.1/decoder/src/jp/sourceforge/reedsolomon
+https://pyqrcode.mine.nu/svn
+
+
+
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+
+svn:special svn:externals svn:needs-lock
+
+RsEncode.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+2eec04f92d07e32b9a3834a0c469f8b6
+2008-11-13T03:27:38.992858Z
+8
+alef
+has-props
+
+BCH_15_5.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+7826ad4a683106f9f1a640ffe4bdd605
+2008-11-13T03:27:38.992858Z
+8
+alef
+has-props
+
+RsDecode.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+79239a04cda84d8f7803f1a44d95ad86
+2008-11-13T03:27:38.992858Z
+8
+alef
+has-props
+
+Galois.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+1b776413b98c0e866f2eb10db0c161d9
+2008-11-13T03:27:38.992858Z
+8
+alef
+has-props
+

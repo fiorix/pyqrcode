@@ -1,0 +1,64 @@
+8
+
+dir
+8
+https://pyqrcode.mine.nu/svn/branches/pyqrcode-0.2.1/decoder/src/jp/sourceforge/qrcode/geom
+https://pyqrcode.mine.nu/svn
+
+
+
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+
+svn:special svn:externals svn:needs-lock
+
+SamplingGrid.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+8d26dcdd7e4812d6e133c2ef37f210e8
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+Axis.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+db57d8aa2c23cc77b8a6f17f38848d09
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+Line.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+bc6112b1c9d127f6cdb7727d511a59b9
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+Point.java
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+fe2165b1b3a4411d32c31a8538ee6a64
+2008-11-13T03:27:38.992858Z
+8
+alef
+

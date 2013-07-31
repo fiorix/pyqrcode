@@ -1,0 +1,67 @@
+8
+
+dir
+8
+https://pyqrcode.mine.nu/svn/branches/pyqrcode-0.2.1/decoder
+https://pyqrcode.mine.nu/svn
+
+
+
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+
+svn:special svn:externals svn:needs-lock
+
+.classpath
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+71f2b1354cfe92af330afa8bad1b8d74
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+.project
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+cf960b7b8cb8b66638a6ba9f5b2bacad
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+doc
+dir
+
+lib
+dir
+
+src
+dir
+
+classes
+dir
+
+README
+file
+
+
+
+
+2008-11-13T03:27:47.000000Z
+89300c93dcf767b96107084d045072b7
+2008-11-13T03:27:38.992858Z
+8
+alef
+
+.settings
+dir
+
